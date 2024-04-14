@@ -1,2 +1,2 @@
 # Prog_M1
-Scripts of the first course of the minor programming (coding language C).
+Scripts of the course 'Programming 1' of the minor Programming (coding language C).
